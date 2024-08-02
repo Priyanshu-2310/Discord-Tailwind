@@ -1,0 +1,11 @@
+#herosection{
+    background-image: url(./images/Image0.svg);
+   background-position: center;
+   background-size: cover;
+}
+@media (max-width:1280px) {
+    #herosection{
+        background-image: none;
+       
+    }
+}
